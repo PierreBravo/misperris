@@ -1,0 +1,66 @@
+.menu{
+   background:#388E3C;
+   padding: 10px;
+   color: #FFFFFF;
+   text-align: center;
+
+  }
+
+body{
+  background: #FFFFFF;
+}
+.menu a{
+  color: #FFFFFF;
+}
+
+li a{
+  padding: 4px;
+}
+
+.figure{
+  height:30px ;
+}
+
+.mr-3{
+  background: #FFFFFF;
+}
+
+ ul li{
+   display: inline-block;
+
+ }
+ ul{
+   list-style: none;
+ }
+
+nav ul li a{
+  text-decoration: none;
+}
+
+body ul li a:hover{
+  color: #212121;
+  text-decoration: none;
+
+}
+
+.media-body{
+  background: #FFFFFF;
+}
+
+/*.colita{
+  background: #009688;
+}*/
+
+
+footer{
+  background: #212121;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 10px;
+  clear:both;
+
+}
+
+footer img{
+  height: 60px;
+}
